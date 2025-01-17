@@ -1,4 +1,8 @@
 
+# e-commerce logistics simulator
+
+Discrete event simulation of e-commerce logistics, modeling warehouse operations and deliveries across Germany with real-time visualization. Tech: Python, SimPy (discrete event simulator), Folium, Plotly, Pandas.
+
 1. **Simulation Development**
 - Implements a discrete event simulation using SimPy
 - Models complex logistics network with multiple warehouses, inventory management, and delivery vehicles
@@ -29,26 +33,4 @@
 - Resource constraints (delivery vehicles)
 - Variable processing times
 - Multiple inventory items
-
-To extend this project, you could:
-
-1. Add visualization components using plotly or folium to show:
-- Warehouse locations and coverage areas
-- Order heatmaps
-- Vehicle routes
-
-2. Implement more sophisticated optimization algorithms:
-- Vehicle routing optimization
-- Inventory rebalancing between warehouses
-- Dynamic pricing based on capacity
-
-3. Add real-time monitoring capabilities:
-- Performance dashboards
-- Alert systems for low inventory
-- Bottleneck detection
-
-4. Enhance the business logic:
-- Weather effects on delivery times
-- Cost calculations
-- Service level agreement (SLA) tracking
 
