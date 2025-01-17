@@ -6,7 +6,7 @@ Discrete event simulation of e-commerce logistics, modeling warehouse operations
 
 The programs will create 3 html files with metrics and visualization map
 
-[Map](https://github.com/batxes/e-commerce_logistics_network_simulator/blob/main/image.png)
+![Map](https://github.com/batxes/e-commerce_logistics_network_simulator/blob/main/image.png)
 
 ### In detail
 
