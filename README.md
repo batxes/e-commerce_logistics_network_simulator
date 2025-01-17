@@ -1,7 +1,14 @@
 
-# e-commerce logistics simulator
+# E-Commerce Logistics Discrete Event Simulator
 
+## About the project
 Discrete event simulation of e-commerce logistics, modeling warehouse operations and deliveries across Germany with real-time visualization. Tech: Python, SimPy (discrete event simulator), Folium, Plotly, Pandas.
+
+The programs will create 3 html files with metrics and visualization map
+
+[Map](https://github.com/batxes/e-commerce_logistics_network_simulator/image.png)
+
+### In detail
 
 1. **Simulation Development**
 - Implements a discrete event simulation using SimPy
